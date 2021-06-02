@@ -1,0 +1,16 @@
+{
+  "name": "tdd-aws-s3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.919.0",
+    "jest": "^27.0.3"
+  }
+}
